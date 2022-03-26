@@ -17,5 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git mosdns https://github.com/QiuSimons/openwrt-mos' >>feeds.conf.default
-echo 'src-git aliyundrivewebdav https://github.com/messense/aliyundrive-webdav/tree/main/openwrt' >>feeds.conf.default
-echo 'src-git aliyundrivefuse https://github.com/messense/aliyundrive-fuse/tree/main/openwrt' >>feeds.conf.default
+echo 'src-git aliyundrivewebdav https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
+echo 'src-git aliyundrivefuse https://github.com/messense/aliyundrive-fuse' >>feeds.conf.default
