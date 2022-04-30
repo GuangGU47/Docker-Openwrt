@@ -19,4 +19,4 @@
 echo 'src-git mosdns https://github.com/QiuSimons/openwrt-mos' >>feeds.conf.default
 echo 'src-git aliyundrivewebdav https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
 echo 'src-git aliyundrivefuse https://github.com/messense/aliyundrive-fuse' >>feeds.conf.default
-echo 'src-git luci-app-socat https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-socat' >>feeds.conf.default
+#echo 'src-git luci-app-socat https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-socat' >>feeds.conf.default
