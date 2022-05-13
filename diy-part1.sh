@@ -17,8 +17,9 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git mosdns https://github.com/QiuSimons/openwrt-mos' >>feeds.conf.default
-echo 'src-git aliyundrivewebdav https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
-echo 'src-git aliyundrivefuse https://github.com/messense/aliyundrive-fuse' >>feeds.conf.default
-echo 'src-git openwrtnicdrivers https://github.com/csrutil/OpenWrt-NIC-Drivers' >>feeds.conf.default
+#echo 'src-git aliyundrivewebdav https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
+#echo 'src-git aliyundrivefuse https://github.com/messense/aliyundrive-fuse' >>feeds.conf.default
+#echo 'src-git openwrtnicdrivers https://github.com/csrutil/OpenWrt-NIC-Drivers' >>feeds.conf.default
+echo 'src-git smartdns https://github.com/pymumu/smartdns' >>feeds.conf.default
 #echo 'src-git ddns-scripts_aliyun https://github.com/mm2231031/ddns-scripts_aliyun' >>feeds.conf.default
 #echo 'src-git luci-app-socat https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-socat' >>feeds.conf.default
